@@ -1,0 +1,1 @@
+Sample data for creating spatial units for Kenya
